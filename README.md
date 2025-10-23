@@ -9,4 +9,6 @@ The repository primarily consists of C (.c) and header (.h) files required for Q
 
 Please proceed with caution and verify the code as needed before use.
 
-Please freely download the zip files and make your own repo to maintain the code as i am just a user who bought the keeb and am not actually involved with the QMK team and their contributors.
+The zip file codebase-source-full-lucky65v2.zip was provided to me and i have uploaded it as is so you can use it to understand the directory strucutre.
+
+Please freely download the zip file and make your own repo to maintain the code as i am just a user who bought the keeb and am not actually involved with the QMK team and their contributors.
