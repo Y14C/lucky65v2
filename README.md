@@ -8,3 +8,5 @@ The original manufacturer of this keyboard is listed on the QMK violators list f
 The repository primarily consists of C (.c) and header (.h) files required for QMK firmware development.
 
 Please proceed with caution and verify the code as needed before use.
+
+Please freely download the zip files and make your own repo to maintain the code as i am just a user who bought the keeb and am not actually involved with the QMK team and their contributors.
